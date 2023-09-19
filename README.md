@@ -20,3 +20,7 @@
 
 ## 📕 Repositories 📕
   La plus part de mes projets sont en privés, mais j'en compte déjà plus de 10 !
+
+## ⚠️ Licences ⚠️
+
+  ***Soon realase ...***
