@@ -9,6 +9,7 @@
   * CSS
   * JS
   * C#
+  * discord.js
 
 ## ☎️ Contact ☎️
   1. Rejoint d'abord mon serveur Discord [ici](https://discord.gg/Sh4FHGAuRU);
