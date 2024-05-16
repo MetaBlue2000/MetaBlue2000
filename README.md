@@ -8,7 +8,7 @@
   * HTML
   * CSS
   * JS
-  * C#
+  * MD
   * Discord.js
 
 ## ☎️ Contact ☎️
